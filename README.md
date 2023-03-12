@@ -20,7 +20,7 @@ I am 19 years old and I am a front-end react developer. I live in Ukraine and am
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/images/5cb480cd5f1b6d3fbadece79.png" width="36" height="36" alt="Slack" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="36" height="36" alt="Slack" /></a>
 
 </p>
 
